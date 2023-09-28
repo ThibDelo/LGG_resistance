@@ -4,7 +4,7 @@
 # gliomas: A computational approach
 # -----------------------------------------------
 
-# Fit of patient 4 data
+# Fit of patient 4 volumetric data
 
 # Author: Thibault Delobel
 # creation: 08/08/2022
@@ -100,7 +100,7 @@ treatment = convert_treatment_dic(patient_data[f'{p_id}']['treatments'], data.da
 
 # Parameters ========================================================
 
-n_opti = 20
+n_opti = 5
 cost_list = np.zeros(n_opti)
 p_opt_list = np.zeros(n_opti, dtype=object)
 
