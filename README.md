@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/697301714.svg)](https://zenodo.org/badge/latestdoi/697301714)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8387520.svg)](https://doi.org/10.5281/zenodo.8387520)
+
 
 This repository contains codes and data associated with the article ***"Overcoming chemotherapy resistance in low-grade gliomas: A computational approach"*** (in review).
 
